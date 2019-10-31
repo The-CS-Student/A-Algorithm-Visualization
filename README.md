@@ -1,20 +1,20 @@
-This a P5 js version of A* Algrithm Visualization.<--
-I wanted to make something different than other visualizations in it.<--
-So this examples use nodes instead of grid visualizations.<--
+This a P5 js version of A* Algrithm Visualization.(<-- two spaces)
+I wanted to make something different than other visualizations in it.(<-- two spaces)
+So this examples use nodes instead of grid visualizations.(<-- two spaces)
 
-To create the map follow the steps:-<--
-1.Add a starting point<--
- - Select start from the dropdown menu<--
- - Click on the canvas to add the point<--
-2.Add an ending point <--
- - Select end from the dropdown menu<--
- - Click on the canvas to add the point<--
-3.Add other nodes<--
- - Select normal from the dropdown menu<--
- - Click on the canvas to add the point<--
-4.Connecting the points<--
- - Click on the two ellipses one at a time to create a path between them<--
-5.Finding the path<--
- - Click the find the path button to start the algorithm<--
- - The optimal path is found in purple colour<--
+To create the map follow the steps:-(<-- two spaces)
+1.Add a starting point(<-- two spaces)
+ - Select start from the dropdown menu(<-- two spaces)
+ - Click on the canvas to add the point(<-- two spaces)
+2.Add an ending point(<-- two spaces)
+ - Select end from the dropdown menu(<-- two spaces)
+ - Click on the canvas to add the point(<-- two spaces)
+3.Add other nodes(<-- two spaces)
+ - Select normal from the dropdown menu(<-- two spaces)
+ - Click on the canvas to add the point(<-- two spaces)
+4.Connecting the points(<-- two spaces)
+ - Click on the two ellipses one at a time to create a path between them(<-- two spaces)
+5.Finding the path(<-- two spaces)
+ - Click the find the path button to start the algorithm(<-- two spaces)
+ - The optimal path is found in purple colour(<-- two spaces)
  
